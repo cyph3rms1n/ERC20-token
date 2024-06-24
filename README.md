@@ -1,6 +1,6 @@
 # ERC20 TOKEM  IN SOLIDITY
 
-This Solidity program is a simple program that demonstrates how we can create an ERC20  token, mint it, and burn it.
+This Solidity program is a simple program that demonstrates how we can create an ERC20  token, mint it, transfer it to another wallet and burn it.
 
 ## Description
 
