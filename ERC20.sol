@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-// ERC-20 token
+// ERC-20 Token
 pragma solidity ^0.8.0;
 
 contract CustomToken {
