@@ -4,7 +4,7 @@ This Solidity program is a simple program that demonstrates how we can create an
 
 ## Description
 
-This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract demonstrate how we can create an ERC20 token in solidty. This program serves as a simple and straightforward purpose of learning solidity, and can be used as a stepping stone for more complex projects in the future.
+This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract demonstrates how we can create an ERC20 token in solidity. This program serves as a simple and straightforward purpose of learning solidity, and can be used as a stepping stone for more complex projects in the future.
 
 ## Getting Started
 
